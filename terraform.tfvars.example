@@ -1,0 +1,4 @@
+# 5. terraform.tfvars.example  (copy as terraform.tfvars later)
+project_name = "mycompany-prod"
+environment  = "prod"
+aws_region   = "us-east-1"
